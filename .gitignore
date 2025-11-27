@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE/Editor files
+.vscode/
+
+# Artifacts/Data
+data/*.csv
+!data/goldstock.csv  # Keep the initial goldstock.csv
+
+models/*.h5
+models/*.save
+# If your model file is > 100MB, consider using Git LFS
+
+# Docker
+.dockerignore
