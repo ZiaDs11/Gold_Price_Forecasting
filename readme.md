@@ -1,7 +1,11 @@
-Gold Price Forecasting API 📈
+Gold Price Forecasting API 📈:
+
+
 This repository hosts a machine learning project designed to forecast the price of gold using a Long Short-Term Memory (LSTM) recurrent neural network. The forecast model is served via a FastAPI web application, allowing for easy integration and real-time predictions.
 
-✨ Features
+✨ Features:
+
+
 LSTM Model: Utilizes an LSTM network, which is highly effective for sequence prediction problems like time series forecasting.
 
 Scalable API: The prediction service is exposed via a robust and fast FastAPI interface.
